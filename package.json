@@ -1,6 +1,6 @@
 {
   "name": "mszewczyk-hello-mars",
-  "version": "1.0.1",
+  "version": "1.0.1-beta.0",
   "description": "Say hello to Mars",
   "main": "index.js",
   "scripts": {
